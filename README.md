@@ -19,8 +19,6 @@ My name is Tejaswini Ashok Walunjkar, a passionate robotic engineer.
   <img align="left" title="Arduino" alt="Arduino" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
 </a>
 
-<a href="https://www.ros.org/" target="_blank">
-  <img align="left" title="ROS" alt="ROS" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/ros/ros.png" />
 </a>
 
 <a href="https://www.tensorflow.org/" target="_blank">
