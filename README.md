@@ -39,9 +39,6 @@ My name is Tejaswini Ashok Walunjkar, a passionate robotic engineer.
   <img align="left" title="Linux" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
 </a>
 
-<a href="https://www.siemens.com/global/en/home/products/automation.html" target="_blank">
-  <img align="left" title="Siemens Automation" alt="Siemens Automation" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/siemens/siemens.png" />
-</a>
 
 <br/><br/>
 
