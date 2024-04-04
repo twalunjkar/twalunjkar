@@ -1,30 +1,54 @@
-# Tejaswini Ashok Walunjkar
+# Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" />
 
-👩‍💻 Robotics Enthusiast | 🌟 Passionate Learner | 🌐 [LinkedIn](https://www.linkedin.com/in/tejaswini-ashok-walunjkar)
+My name is Tejaswini Ashok Walunjkar, a passionate robotic engineer hailing from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="15" /> **Tempe, AZ**.
 
 ## About Me
 
-Hey there! I'm Tejaswini, a Robotics and Autonomous Systems enthusiast with a knack for innovation and problem-solving. Currently mastering the art of technology at Arizona State University.
+- 🤖 Robotics Enthusiast since 2017
+- 📚 Currently exploring advanced robotics and automation techniques
+- ❄ Dreaming of working in robotics research labs in colder regions
+- 🎲 In my spare time, I enjoy playing with robots and strategizing chess moves
 
-## Skills
+## My Toolbox
 
-🚀 Programming: C, C++, C#, Python, HTML, TypeScript, TensorFlow, PyTorch  
-💻 Software: MATLAB, Simulink, DeltaV, Siemens TIA Portal  
-☁️ Cloud: AWS (IoT Core, EC2, DynamoDB, Lambda)  
-🤖 Robotics: Arduino, Nvidia Jetson, Raspberry Pi  
-🔧 Tools: Git, Linux, Windows  
+<a href="https://www.python.org/" target="_blank">
+  <img align="left" title="Python" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+</a>
 
-## Projects
+<a href="https://www.arduino.cc/" target="_blank">
+  <img align="left" title="Arduino" alt="Arduino" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
+</a>
 
-- [**Industrial IoT Plant Simulator**](https://github.com/twalunjkar/AME598-Industrial_IoT_Plant_Simulator): Enhanced process control efficiency by 50% through Python-based simulation.
-- [**Text-to-Speech System**](https://github.com/twalunjkar/CEN598-TTS_for_OCR): Improved model diversity and linguistic richness for OCR-generated text.
-- [**Restaurant Analyzer**](https://github.com/twalunjkar/MFG598-Interactive_Restaurant_Analyzer): Developed a Python app for restaurant analysis with intuitive GUI.
-- [**Lane Following Robot**](https://github.com/twalunjkar/EGR530-Lane-Following-Robot): Utilized advanced OpenCV for real-time image processing.
+<a href="https://www.ros.org/" target="_blank">
+  <img align="left" title="ROS" alt="ROS" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/ros/ros.png" />
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img align="left" title="TensorFlow" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" />
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+  <img align="left" title="PyTorch" alt="PyTorch" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" />
+</a>
+
+<a href="https://opencv.org/" target="_blank">
+  <img align="left" title="OpenCV" alt="OpenCV" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img align="left" title="Linux" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
+</a>
+
+<a href="https://www.siemens.com/global/en/home/products/automation.html" target="_blank">
+  <img align="left" title="Siemens Automation" alt="Siemens Automation" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/siemens/siemens.png" />
+</a>
+
+<br/><br/>
 
 ## Work Experience
 
-- **Tesla, Austin, TX**: Designed control systems and managed procurement.
-- **Emerson Electric, Pune, India**: Programmed control strategies and led PLC integration team.
+- **Manufacturing Controls Development Engineer Intern, Tesla, Austin, TX**: Contributed to the design and testing of control systems for advanced manufacturing processes.
+- **System Engineer, Emerson Electric, Pune, India**: Led projects integrating PLCs with DCS systems for efficient industrial automation solutions.
 
 ## Education
 
@@ -33,4 +57,4 @@ Hey there! I'm Tejaswini, a Robotics and Autonomous Systems enthusiast with a kn
 
 ## Let's Connect!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tejaswini-ashok-walunjkar) for collaborations or discussions. Looking forward to meeting you!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tejaswini-ashok-walunjkar) for discussions on robotics, automation, or anything related! Looking forward to connecting with fellow robotic enthusiasts.
