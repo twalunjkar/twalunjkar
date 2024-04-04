@@ -1,6 +1,6 @@
 # Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" />
 
-My name is Tejaswini Ashok Walunjkar, a passionate robotic engineer hailing from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="15" /> **Tempe, AZ**.
+My name is Tejaswini Ashok Walunjkar, a passionate robotic engineer.
 
 ## About Me
 
