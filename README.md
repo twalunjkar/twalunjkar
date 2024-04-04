@@ -16,10 +16,10 @@ Hey there! I'm Tejaswini, a Robotics and Autonomous Systems enthusiast with a kn
 
 ## Projects
 
-- [**Industrial IoT Plant Simulator**](https://github.com/twalunjkar/AME598-Industrial_IoT_Plant_Simulator): Enhanced process control efficiency by 50% through Python-based simulation.
-- [**Text-to-Speech System**](https://github.com/twalunjkar/CEN598-TTS_for_OCR): Improved model diversity and linguistic richness for OCR-generated text.
-- [**Restaurant Analyzer**](https://github.com/twalunjkar/MFG598-Interactive_Restaurant_Analyzer): Developed a Python app for restaurant analysis with intuitive GUI.
-- [**Lane Following Robot**](https://github.com/twalunjkar/EGR530-Lane-Following-Robot): Utilized advanced OpenCV for real-time image processing.
+- [**Industrial IoT Plant Simulator**](https://github.com/twalunjkar/AME598-Industrial_IoT_Plant_Simulator) 🌱: Enhanced process control efficiency by 50% through Python-based simulation.
+- [**Text-to-Speech System**](https://github.com/twalunjkar/CEN598-TTS_for_OCR) 🔊: Improved model diversity and linguistic richness for OCR-generated text.
+- [**Restaurant Analyzer**](https://github.com/twalunjkar/MFG598-Interactive_Restaurant_Analyzer) 🍽️: Developed a Python app for restaurant analysis with intuitive GUI.
+- [**Lane Following Robot**](https://github.com/twalunjkar/EGR530-Lane-Following-Robot) 🚗: Utilized advanced OpenCV for real-time image processing.
 
 ## Work Experience
 
@@ -34,3 +34,5 @@ Hey there! I'm Tejaswini, a Robotics and Autonomous Systems enthusiast with a kn
 ## Let's Connect!
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tejaswini-ashok-walunjkar) for collaborations or discussions. Looking forward to meeting you!
+
+![GIF](https://media.giphy.com/media/S8Gt4XuCfz8Y8/giphy.gif)
