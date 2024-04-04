@@ -4,7 +4,7 @@ My name is Tejaswini Ashok Walunjkar, a passionate robotic engineer.
 
 ## About Me
 
-- 🤖 Robotics Enthusiast since 2017
+- 🤖 Robotics Enthusiast
 - 📚 Currently exploring advanced robotics and automation techniques
 - ❄ Dreaming of working in robotics research labs in colder regions
 - 🎲 In my spare time, I enjoy playing with robots and strategizing chess moves
