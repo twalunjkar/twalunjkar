@@ -1,6 +1,6 @@
 # Tejaswini Ashok Walunjkar
 
-👩‍💻 Robotics Enthusiast | 🌟 Passionate Learner | 🌐 [LinkedIn](https://www.linkedin.com/in/tejaswini-ashok-walunjkar) | 📍 Tempe, AZ 
+👩‍💻 Robotics Enthusiast | 🌟 Passionate Learner | 🌐 [LinkedIn](https://www.linkedin.com/in/tejaswini-ashok-walunjkar)
 
 ## About Me
 
