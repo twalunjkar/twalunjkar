@@ -16,12 +16,10 @@ Hey there! I'm Tejaswini, a Robotics and Autonomous Systems enthusiast with a kn
 
 ## Projects
 
-- **Wearable Biofeedback Device**: Researched sensor technologies for heart rate and respiration monitoring in wearables.
-- **Industrial IoT Plant Simulator**: Enhanced process control efficiency by 50% through Python-based simulation.
-- **Text-to-Speech System**: Improved model diversity and linguistic richness for OCR-generated text.
-- **Restaurant Analyzer**: Developed a Python app for restaurant analysis with intuitive GUI.
-- **Lane Following Robot**: Utilized advanced OpenCV for real-time image processing.
-- **Self-Balancing Motorcycle**: Designed and built a self-balancing robot using Arduino Nano and Simulink.
+- [**Industrial IoT Plant Simulator**](https://github.com/twalunjkar/AME598-Industrial_IoT_Plant_Simulator): Enhanced process control efficiency by 50% through Python-based simulation.
+- [**Text-to-Speech System**](https://github.com/twalunjkar/CEN598-TTS_for_OCR): Improved model diversity and linguistic richness for OCR-generated text.
+- [**Restaurant Analyzer**](https://github.com/twalunjkar/MFG598-Interactive_Restaurant_Analyzer): Developed a Python app for restaurant analysis with intuitive GUI.
+- [**Lane Following Robot**](https://github.com/twalunjkar/EGR530-Lane-Following-Robot): Utilized advanced OpenCV for real-time image processing.
 
 ## Work Experience
 
