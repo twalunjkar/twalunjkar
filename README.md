@@ -3,7 +3,7 @@
 My name is Tejaswini Ashok Walunjkar, a passionate robotic engineer.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tejaswini-ashok-walunjkar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswini-ashok-walunjkar) 
 
 ## About Me 💫
 
