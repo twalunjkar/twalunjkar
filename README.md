@@ -7,9 +7,9 @@ My name is Tejaswini Ashok Walunjkar, a passionate robotic engineer.
 
 ## 💫 About Me:
 
-🔭 I’m currently working on Universal Robot programming<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ROS and SLAM<br>🏸 In my spare time, I enjoy playing with robots and playing badminton
+🔭 I’m currently working on Universal Robot programming<br>🌱 I’m currently exploring ROS and SLAM<br>🏸 In my spare time, I enjoy playing with robots and playing badminton
 
-<!-- ⚡ Fun fact -->
+<!-- ⚡ Fun fact 🤝 I’m looking for help with<br>-->
 
 
 # 💻 Tech Stack:
