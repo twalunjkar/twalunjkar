@@ -1,13 +1,13 @@
 # Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" />
 
-My name is Tejaswini Ashok Walunjkar, a passionate robotic engineer.
+My name is Tejaswini Ashok Walunjkar, a passionate Roboticist.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswini-ashok-walunjkar) 
 
 # 💫 About Me:
 
-🔭 I’m currently working on Universal Robot programming<br>🌱 I’m currently exploring ROS and SLAM<br>🏸 In my spare time, I enjoy playing with robots and playing badminton
+🔭 I’m currently working on Universal Robots<br>🌱 I’m currently exploring ROS and SLAM<br>🏸 In my spare time, I enjoy playing with robots and playing badminton
 
 <!-- ⚡ Fun fact 🤝 I’m looking for help with<br>-->
 
