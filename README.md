@@ -11,18 +11,53 @@ My name is Tejaswini Ashok Walunjkar, a passionate robotic engineer.
 
 ## My Toolbox
 
-[![Python](https://raw.githubusercontent.com/github/explore/master/topics/python/python.png)](https://www.python.org/)
-[![Arduino](https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png)](https://www.arduino.cc/)
-[![TensorFlow](https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png)](https://www.tensorflow.org/)
-[![PyTorch](https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png)](https://pytorch.org/)
-[![OpenCV](https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png)](https://opencv.org/)
-[![Linux](https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png)](https://www.linux.org/)
-[![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)](https://www.mathworks.com/products/matlab.html)
-[![Ignition 8.1](https://www.inductiveautomation.com/wp-content/uploads/2020/07/logo.svg)](https://inductiveautomation.com/ignition/)
-[![Nvidia Jetson](https://developer.nvidia.com/sites/default/files/akamai/embedded/images/jetson_logo_200px.png)](https://developer.nvidia.com/embedded/jetson-developer-kit)
-[![Raspberry Pi](https://www.raspberrypi.org/homepage-9df4b/favicon.png)](https://www.raspberrypi.org/)
-[![DeltaV DCS](https://upload.wikimedia.org/wikipedia/commons/c/c4/Emerson_logo.svg)](https://www.emerson.com/en-us/automation/deltav)
-[![Siemens TIA Portal](https://upload.wikimedia.org/wikipedia/commons/4/47/Siemens_Logo.svg)](https://new.siemens.com/global/en/products/automation/systems/tia-portal.html)
+<a href="https://www.python.org/" target="_blank">
+  <img align="left" title="Python" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+</a>
+
+<a href="https://www.arduino.cc/" target="_blank">
+  <img align="left" title="Arduino" alt="Arduino" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img align="left" title="TensorFlow" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" />
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+  <img align="left" title="PyTorch" alt="PyTorch" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" />
+</a>
+
+<a href="https://opencv.org/" target="_blank">
+  <img align="left" title="OpenCV" alt="OpenCV" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img align="left" title="Linux" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
+</a>
+
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+  <img align="left" title="MATLAB" alt="MATLAB" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
+</a>
+
+<a href="https://inductiveautomation.com/ignition/" target="_blank">
+  <img align="left" title="Ignition 8.1" alt="Ignition 8.1" width="30px" src="https://www.inductiveautomation.com/wp-content/uploads/2020/07/logo.svg" />
+</a>
+
+<a href="https://developer.nvidia.com/embedded/jetson-developer-kit" target="_blank">
+  <img align="left" title="Nvidia Jetson" alt="Nvidia Jetson" width="30px" src="https://developer.nvidia.com/sites/default/files/akamai/embedded/images/jetson_logo_200px.png" />
+</a>
+
+<a href="https://www.raspberrypi.org/" target="_blank">
+  <img align="left" title="Raspberry Pi" alt="Raspberry Pi" width="30px" src="https://www.raspberrypi.org/homepage-9df4b/favicon.png" />
+</a>
+
+<a href="https://www.emerson.com/en-us/automation/deltav" target="_blank">
+  <img align="left" title="DeltaV DCS" alt="DeltaV DCS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Emerson_logo.svg" />
+</a>
+
+<a href="https://new.siemens.com/global/en/products/automation/systems/tia-portal.html" target="_blank">
+  <img align="left" title="Siemens TIA Portal" alt="Siemens TIA Portal" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Siemens_Logo.svg" />
+</a>
 
 
 <br/><br/>
